@@ -1,0 +1,4 @@
+*.txt
+R_testing/
+toxic_comment_analysis/
+venv
